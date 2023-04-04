@@ -5,5 +5,5 @@ void setup(){
 void draw(){
   textSize(40);
   fill(163,87,232);
-  text("Hola Mundo. Esta es \nmi primer aplicación", 100, 200);
+  text("Hola Mundo.!!!!!!!!!!!! Esta es \nmi primer aplicación", 100, 200);
 }
